@@ -1,3 +1,0 @@
-All notifications view
-Fix crash when tapping or whatever
-SubtleLock compatibility

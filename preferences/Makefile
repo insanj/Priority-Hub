@@ -1,5 +1,5 @@
 ARCHS = armv7 arm64
-GO_EASY_ON_ME = 1
+TARGET =: clang
 
 include theos/makefiles/common.mk
 
